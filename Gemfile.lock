@@ -1,0 +1,20 @@
+GIT
+  remote: git@github.com:clearsightstudio/ProMotion.git
+  revision: 806e19436d31e0e351d7e614fa572b316d29fd6b
+  specs:
+    ProMotion (0.2.0)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    bubble-wrap (1.1.4)
+    formotion (1.1.4)
+      bubble-wrap (>= 1.1.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ProMotion!
+  bubble-wrap
+  formotion
